@@ -37,9 +37,11 @@
 ## CircleCI の設定
 
 - Project Settings > Environment Variables から設定
-
+  ![ Environment Variables](https://user-images.githubusercontent.com/92103678/197311213-2ab86c82-3a53-4cbb-9849-c2fe02472201.png)
   <br><br>
 
 - Project Settings > Additional SSH Keys から設定  
+  ![Additional SSH Keys](https://user-images.githubusercontent.com/92103678/197311208-2f69b7c6-9588-44a5-b4d6-e946405a0d3a.png)
   <br><br>
   SSH キーを登録すると Fingerprint が作成されます。
+  <img width="468" alt="Add an SSH Key" src="https://user-images.githubusercontent.com/92103678/197311211-f27e8210-ad58-421a-879d-321809a5aa9e.png">
